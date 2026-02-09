@@ -6,9 +6,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hebing-sjtu/hebing-sjtu/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebing-sjtu&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # Bing He | PhD Candidate @ SJTU
 
 <div align="center">
