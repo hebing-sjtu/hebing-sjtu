@@ -31,6 +31,7 @@ I am a PhD student at **Shanghai Jiao Tong University**, working at the intersec
 ---
 
 ## 🔥 News
+* **[2026.10]** 🎉 **CompactSplat** accepted to **NeurIPS 2026**! [Paper](https://arxiv.org/abs/2610.13177) · [Project Page](https://hebing-sjtu.github.io/CompactSplat-website/)
 * **[2026.01]** 🎉 **SurfSplat** accepted to **ICLR 2026**! Catch me in Rio de Janeiro this April.
 * **[2025.10]** 🚀 **H3D-DGS** accepted to **NeurIPS 2025**.
 
@@ -39,6 +40,9 @@ I am a PhD student at **Shanghai Jiao Tong University**, working at the intersec
 ## 🛠 Featured Research
 
 ### 🟢 3D Vision & Graphics
+**CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction** *NeurIPS 2026* | [Code](https://github.com/hebing-sjtu/CompactSplat) | [Paper](https://arxiv.org/abs/2610.13177) | [Project Page](https://hebing-sjtu.github.io/CompactSplat-website/) | [Models](https://huggingface.co/binghe-sjtu/compactsplat)  
+* Content-aware Gaussian allocation with texture-guided partitioning and hierarchical sampling, enabling compact feedforward scene reconstruction and adjustable sparsity at inference time without retraining.
+
 **SurfSplat: Conquering Feedforward 2D Gaussian Splatting** *ICLR 2026* | [Project Page](https://hebing-sjtu.github.io/SurfSplat-website/)  
 * Introducing surface continuity priors to 2DGS. No more artifacts—finally, high-fidelity 3DGS that holds up even under extreme zoom.
 
